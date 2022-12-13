@@ -1,0 +1,13 @@
+#cache files
+.mypy_cache/*
+.pytest_cache/*
+*.egg-info/
+
+#directories
+__pycache__
+.vscode/
+saved_models/
+data/
+results/
+build/
+dist/
